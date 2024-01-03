@@ -15,7 +15,7 @@ The goal is to transmit strings of characters from the client to the server in a
 ## Usage
 
 ### Installation
-1. Clone this repository: `git clone https://github.com/manugonz42/Minitalk.git`
+1. Clone this repository: `git clone https://github.com/manugonz42/Minitalk.git minitalk`
 2. Navigate to the project directory: `cd minitalk`
 3. Compile the project: `make`
 
